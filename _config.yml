@@ -21,7 +21,7 @@
 title: AIM-HEALTH
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  Centre for Artificial Intelligence in Healthcare.
+  Centre Initiative for Artificial Intelligence in Healthcare.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aim-health.no" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: aim-health

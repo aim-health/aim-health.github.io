@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-AIM-HEALTH - Centre for Artificial Intelligence in Healthcare
+AIM-HEALTH - Centre Initiative for Artificial Intelligence in Healthcare
 
 [aim-healh-organization]: https://github.com/aim-health
