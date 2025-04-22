@@ -4,6 +4,9 @@
 
 layout: home
 ---
+
+![Image]({{ site.baseurl }}/assets/aim-health.svg)
+
 # Welcome to AIM-HEALTH!
 
 The AIM-HEALTH initiative aim to foster a vibrant and collaborative network of interdisciplinary researchers across Norway and internationally.
