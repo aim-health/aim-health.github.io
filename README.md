@@ -7,7 +7,7 @@ Jekyll sources for static AIM-HEALTH website.
 1. Clone the repository
 2. Create a new branch
 3. Make changes to the website
-4. Test build locally 
+4. Test build locally
    - Install Jekyll and dependencies
    - Run `bundle exec jekyll serve` to preview the site locally
    - Open `http://localhost:4000` in your browser

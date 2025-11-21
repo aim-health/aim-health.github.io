@@ -9,14 +9,14 @@ layout: home
 
 # Welcome to AIM-HEALTH!
 
-![Image]({{ site.baseurl }}/assets/fig_cover_v2.svg){: width="300" }{: style="float: right"}
+![Image]({{ site.baseurl }}/assets/fig_cover_v2.svg){: width="350" }{: style="float: right"}
 
 The AIM-HEALTH initiative aim to foster a vibrant and collaborative network of interdisciplinary researchers across Norway and internationally.
 At its core, it unites **leading medical research institutions, university hospitals, and AI research groups** within a **national node network**.
 This network is structured around **four Regional Nodes** that connect researchers to regional hospitals and healthcare infrastructure providers, promoting synergies between the research and healthcare systems.
+The nodes are at university hospitals in **Oslo, Bergen, Trondheim and Tromsø**.
 
-
-The initiative brings together a **multidisciplinary team** of experts with **complementary expertise**, including AI researchers, data scientists, clinicians, legal experts, and social scientists.
+The initiative brings together a **multidisciplinary team** of experts with **complementary expertise**, including AI researchers, data scientists, clinicians, legal experts, social scientists, and industry experts.
 This diverse group collaborates across work packages and core support units.
 
 Beyond the formal structure, the network includes:
@@ -25,4 +25,8 @@ Beyond the formal structure, the network includes:
 *   Strong collaborations between **academia and industry partners**, including SMEs and large companies, facilitated through sandbox environments and networking events.
 *   Engagement with **international frontline AI research institutes** and Nordic partners for knowledge exchange and federated data access.
 
+![Image]({{ site.baseurl }}/assets/fig_WP_CS.svg){: width="500" }{: style="float: left"}
+
 This informal network is crucial for AIM-HEALTH's interdisciplinary approach, enabling the seamless integration of AI innovation with real-world healthcare challenges and fostering a strong community dedicated to advancing healthcare through AI.
+Our approach is designed to ensure that AI technologies are developed and implemented in a manner that is ethical, effective, and aligned with the needs of patients and healthcare providers.
+The approach encompasses four different but highly intertwined **Work Packages (WPs)**, and supported by **Core Support (CS) units** as illustrated to the left.
